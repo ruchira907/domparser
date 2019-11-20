@@ -1,4 +1,3 @@
-package com.wyncore.as400.rest.api.utils;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.wyncore.as400.rest.api.model.Transaction;
